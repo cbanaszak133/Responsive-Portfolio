@@ -15,7 +15,9 @@
 	}
 
 	#about-me-img{
-		margin-left:75px;
+		margin-left:68px;
+		width:260px;
+		height:200px;
 	}
 
 	.image-box{
@@ -149,7 +151,9 @@
 	}
 
 	#about-me-img{
-		margin-left:75px;
+		margin-left:130px;
+		width:260px;
+		height:200px;
 	}
 
 }
