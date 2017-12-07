@@ -41,7 +41,7 @@ html, body{
 	background-color: #4aaaa5;
 	padding: 30px 32px;
 	margin-right:460px auto;
-	margin-left:100px;
+	margin-left:30px;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 20px;
 }
@@ -82,7 +82,7 @@ html, body{
 
 #main-section{
 	float:left;
-	margin-left: 100px;
+	margin-left: 30px;
 	margin-right:40px;
 	margin-bottom:30px;
 	width:650px;
